@@ -10,16 +10,3 @@ Predicting the melting point of organic molecules is a significant challenge in 
 
 This competition tasks participants with building ML models to predict melting points using **group contribution features**—subgroup counts that represent the functional groups within each molecule. The goal is to capture the complex, nonlinear relationships between molecular structure and melting behavior.
 
-## 📁 Repository Structure
-
-melting-point-competition/
-
-├── data/ # Directory for competition data (not stored on GitHub)
-
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-
-│ └── 01_baseline_model_decision_tree.ipynb.ipynb
-
-├── README.md # This file
-
-└── environment.yaml # Python dependencies
