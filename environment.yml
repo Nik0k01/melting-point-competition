@@ -1,0 +1,21 @@
+name: melting_env
+channels:
+  - pytorch 
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+ - python=3.11
+ - pip
+ - pytorch
+ - torchvision
+ - cudatoolkit
+ - numpy
+ - pandas
+ - scipy
+ - fastai
+ - scikit-learn
+ - matplotlib
+ - jupyter
+ - tqdm
+ - ipywidgets
