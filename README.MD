@@ -10,3 +10,4 @@ Predicting the melting point of organic molecules is a significant challenge in 
 
 This competition tasks participants with building ML models to predict melting points using **group contribution features**—subgroup counts that represent the functional groups within each molecule. The goal is to capture the complex, nonlinear relationships between molecular structure and melting behavior.
 
+Through adding all of the RDKit descriptors and tweaking the parameters of RandomForest i managed to achieve MAE 29.76197 which placed me middle of the pack in the competition leaderboard. This was a fun experiance! 
